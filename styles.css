@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+#container-for-chart-three {
+    height: 90vh;
+}
+
+#chart1, #chart2, #chart3, #chart4 {
+    margin-top: 100px;
+}
+ 
+body {
+    width : 1000px;
+    margin: auto;
+    margin-top: 50px;
+}
